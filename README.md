@@ -1,5 +1,5 @@
-# Non-Negative Matrix Factorization
-This is a demo project for common NLP tasks.
+# Classical Natural Language Processing
+This is a demo project for classical NLP tasks.
 
 ## Getting Started
 This project aims to conduct classic Natural Language Processing (NLP) tasks, including the implementation of algorithms such as Term Frequency-Inverse Document Frequency (TF-IDF), Word2Vec for word embeddings, sequence models like Recurrent Neural Networks (RNN) and Bidirectional RNN (Bi-RNN), and various text processing tasks such as stemming and lemmatization. They also engaged in part-of-speech tagging (PoS), dependency parsing, and named entity recognition (NER) tasks.
